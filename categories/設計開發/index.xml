@@ -1,16 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>設計開發 - Category - DevenTW</title>
-        <link>https://deventw.com/categories/%E8%A8%AD%E8%A8%88%E9%96%8B%E7%99%BC/</link>
+        <link>deventw.com/categories/%E8%A8%AD%E8%A8%88%E9%96%8B%E7%99%BC/</link>
         <description>設計開發 - Category - DevenTW</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 16 Jul 2021 19:18:47 &#43;0800</lastBuildDate><atom:link href="https://deventw.com/categories/%E8%A8%AD%E8%A8%88%E9%96%8B%E7%99%BC/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 16 Jul 2021 19:18:47 &#43;0800</lastBuildDate><atom:link href="deventw.com/categories/%E8%A8%AD%E8%A8%88%E9%96%8B%E7%99%BC/" rel="self" type="application/rss+xml" /><item>
     <title>How to connect Github Pages to Custom Domain</title>
-    <link>https://deventw.com/github-pages-to-custom-domain/</link>
+    <link>deventw.com/github-pages-to-custom-domain/</link>
     <pubDate>Fri, 16 Jul 2021 19:18:47 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://deventw.com/github-pages-to-custom-domain/</guid>
+    <guid>deventw.com/github-pages-to-custom-domain/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/images/github-namecheap.jpg" referrerpolicy="no-referrer">
+                <img src="/deventw.com/images/github-namecheap.jpg" referrerpolicy="no-referrer">
             </div><p>Tutorial of linking Github Pages to Custom Domain.</p>]]></description>
 </item></channel>
 </rss>

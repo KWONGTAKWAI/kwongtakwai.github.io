@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>EDC - Tag - DevenTW</title>
-        <link>https://deventw.com/tags/edc/</link>
+        <link>deventw.com/tags/edc/</link>
         <description>EDC - Tag - DevenTW</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 16 Jul 2021 19:48:09 &#43;0800</lastBuildDate><atom:link href="https://deventw.com/tags/edc/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 16 Jul 2021 19:48:09 &#43;0800</lastBuildDate><atom:link href="deventw.com/tags/edc/" rel="self" type="application/rss+xml" /><item>
     <title>Tech</title>
-    <link>https://deventw.com/tech/</link>
+    <link>deventw.com/tech/</link>
     <pubDate>Fri, 16 Jul 2021 19:48:09 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://deventw.com/tech/</guid>
+    <guid>deventw.com/tech/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=1307&amp;q=80" referrerpolicy="no-referrer">
             </div><p>Hardware that I used in daily.</p>]]></description>
